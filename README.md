@@ -22,4 +22,16 @@ https://app.quickdatabasediagrams.com/#/d/YCqTRh
 7. Sun May 26th 11:29 AM added data_analysis_3.sql
 8. Sun May 26th 11:39 AM added data_analysis_4.sql
 9. Sun May 26th 11:58 AM added data_analysis_5.sql
-10. Sun May 26th 12:17 AM added dtata_analysis_6.sql
+10. Sun May 26th 12:17 PM added data_analysis_6.sql
+11. Sun May 26th 1:26 PM added data_analysis_7.sql and data_analysis_8.sql
+
+
+# Resources: 
+- Watched MySQL: FOREIGN KEYS are easy (kind of):   
+    https://www.youtube.com/watch?v=rFssfx37UJw
+- Watched: Watched Entity Relationship Diagram (ERD) Tutorial - Part 2: 
+    https://www.youtube.com/watch?v=hktyW5Lp0Vo
+- SQL Join 3 Tables: How-To with Example: 
+    https://www.youtube.com/watch?v=TGt2xa7EzvI
+- Used Chat GPT for "LIKE 'B%'" on data_analysi_5
+- Used CHAT GPT for DISTINCT command on data_analysis_8
