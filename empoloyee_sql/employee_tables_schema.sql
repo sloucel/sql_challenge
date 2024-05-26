@@ -2,6 +2,10 @@
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/YCqTRh
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
+-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+-- Link to schema: https://app.quickdatabasediagrams.com/#/d/YCqTRh
+-- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
+
 -- SELECT * FROM titles
 CREATE TABLE titles (
     title_id VARCHAR (5)  NOT NULL,
@@ -63,9 +67,10 @@ REFERENCES employees (emp_no);
 
 ALTER TABLE salaries ADD CONSTRAINT fk_salaries_emp_no FOREIGN KEY(emp_no)
 REFERENCES employees (emp_no);
+
 -- Change title_id from schema back to emp_title_id for the CVS import.
-ALTER TABLE employees
-RENAME COLUMN title_id TO emp_title_id;
+-- ALTER TABLE employees
+-- RENAME COLUMN title_id TO emp_title_id;
 -- Convert emp_title_id to match title_id naming convention across the tables.
-ALTER TABLE employees
-RENAME COLUMN emp_title_id TO title_id;
+-- ALTER TABLE employees
+-- RENAME COLUMN emp_title_id TO title_id;
