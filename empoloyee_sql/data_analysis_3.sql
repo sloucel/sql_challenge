@@ -1,8 +1,8 @@
 -- DATA ANALYSIS #3
 -- List the manager of each department along with their department number, department name, employee number, last name, and first name 
--- Tables: department_manager, deapartments, department_employees, employees
+-- Tables: department_manager, deapartments, department_employees, titles
 
-SELECT t.title, e.first_name, e.last_name, e.emp_no, dm.dept_no, d.dept_name 
+SELECT t.title, e.last_name, e.first_name, e.emp_no, dm.dept_no, d.dept_name 
 FROM employees AS e
 INNER JOIN department_managers AS dm
 	ON e.emp_no = dm.emp_no
