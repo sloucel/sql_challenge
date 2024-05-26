@@ -9,4 +9,4 @@ INNER JOIN department_employees AS de
 INNER JOIN departments AS d
 	ON de.dept_no = d.dept_no
 WHERE d.dept_name = 'Sales'
-	OR d.dept_name = 'Development'
+	OR d.dept_name = 'Development';

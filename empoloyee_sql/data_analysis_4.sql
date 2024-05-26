@@ -8,4 +8,4 @@ FROM employees AS e
 INNER JOIN department_employees AS de
 	ON e.emp_no = de.emp_no
 INNER JOIN departments as d
-	ON de.dept_no = d.dept_no
+	ON de.dept_no = d.dept_no;

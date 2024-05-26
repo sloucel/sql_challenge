@@ -10,4 +10,4 @@ INNER JOIN departments AS d
 	ON dm.dept_no = d.dept_no
 INNER JOIN titles AS t
 	ON e.title_id = t.title_id
-WHERE t.title_id = 'm0001'
+WHERE t.title_id = 'm0001';
