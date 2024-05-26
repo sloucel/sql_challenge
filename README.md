@@ -22,3 +22,4 @@ https://app.quickdatabasediagrams.com/#/d/YCqTRh
 7. Sun May 26th 11:29 AM added data_analysis_3.sql
 8. Sun May 26th 11:39 AM added data_analysis_4.sql
 9. Sun May 26th 11:58 AM added data_analysis_5.sql
+10. Sun May 26th 12:17 AM added dtata_analysis_6.sql
