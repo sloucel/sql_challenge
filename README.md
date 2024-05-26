@@ -19,3 +19,6 @@ https://app.quickdatabasediagrams.com/#/d/YCqTRh
 4. Sat May 25th 10:45 PM completed data_analysis_1.sql
 5. Sun May 26th 10:17 AM went back and added length for VarChar columns.
 6. Sun May 26th 10:36 AM added data_analysis_2.sql
+7. Sun May 26th 11:29 AM added data_analysis_3.sql
+8. Sun May 26th 11:39 AM added data_analysis_4.sql
+9. Sun May 26th 11:58 AM added data_analysis_5.sql
