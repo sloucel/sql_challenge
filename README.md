@@ -17,3 +17,4 @@ https://app.quickdatabasediagrams.com/#/d/YCqTRh
 2. Sat May 25th created ERD
 3. Sat May 25th created tables and imported CSV files
 4. Sat May 25th 10:45 PM completed data_analysis_1.sql
+5. Sun May 26th 10:17 AM went back and added length for VarChar columns
